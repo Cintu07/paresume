@@ -4,7 +4,7 @@ PaResume is an **AI-powered Resume Analyzer** built with a modern React + Vite s
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload resumes and analyze ATS compatibility
 - View keyword and skill suggestions
@@ -14,7 +14,7 @@ PaResume is an **AI-powered Resume Analyzer** built with a modern React + Vite s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 
@@ -28,9 +28,9 @@ PaResume is an **AI-powered Resume Analyzer** built with a modern React + Vite s
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
-1️⃣ **Clone the repository**
+1️ **Clone the repository**
 
 ```bash
 git clone https://github.com/Cintu07/paresume
